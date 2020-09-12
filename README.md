@@ -1,4 +1,4 @@
-# Ckeditor_FileManager
+# Ckeditor FileManager
 List of features : 
 <ul>
   <li>File Manager (PHP)</li>
