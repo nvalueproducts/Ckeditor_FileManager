@@ -1,5 +1,5 @@
 # Ckeditor_FileManager
-Feature Lists : 
+List of features : 
 <ul>
   <li>File Manager (PHP)</li>
   <li>File Upload (PHP)</li>
