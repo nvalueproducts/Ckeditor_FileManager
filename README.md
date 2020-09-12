@@ -1,2 +1,6 @@
 # Ckeditor_FileManager
-Ckeditor full config
+Feature Lists : 
+File Manager (PHP)
+File Upload (PHP)
+Audio Manager
+Audio Plugin
